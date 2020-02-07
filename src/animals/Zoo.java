@@ -10,6 +10,16 @@ public class Zoo {
         EurasianOtter thirdOtter = new EurasianOtter('F', 4);
         Otter fourthOtter = new AsianSmallClawedOtter('M', 4);
 
+        firstOtter.eat();
+//        firstOtter.swim(); //Animal class only has the eat method
+//        secondOtter.eat(); //Aquatic interface only has the swim method available
+        secondOtter.swim();
+        thirdOtter.eat();
+        thirdOtter.swim();
+        fourthOtter.eat();
+        fourthOtter.swim();
+
+
 //        aquarium[0] = firstOtter; // Fails because Animal does not implement Aquatic
         aquarium[1] = secondOtter;
         aquarium[2] = thirdOtter;
@@ -21,8 +31,6 @@ public class Zoo {
         zoo[3] = fourthOtter;
 
         EasternGreyKangaroo firstKangaroo = new EasternGreyKangaroo('M', 4);
-
-
 
 
     }
