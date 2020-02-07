@@ -5,7 +5,7 @@ public class AsianSmallClawedOtter extends Otter {
         super(inputGender, inputNumberOfAppendages);
     }
 
-    public void swim() {
-        System.out.println("I am a eurasianOtter and I'm swimming");
+    public void eat() {
+        System.out.println("I am a AsianSmallClawedOtter and I'm eating");
     }
 }

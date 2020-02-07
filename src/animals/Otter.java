@@ -7,6 +7,10 @@ public abstract class Otter extends Mammal implements Aquatic {
     }
 
     public void eat() {
-        System.out.println("The otter is eating nomnomnom");
+        System.out.println("Generic otter is eating nomnomnom");
+    }
+
+    public void swim() {
+        System.out.println("Generic otter is swimming.");
     }
 }
