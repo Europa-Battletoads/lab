@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e51028af-fa4c-4f0c-9ffa-c94de8fd9961" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Chaney2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lab2/Chaney1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab2/Chaney1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chaney1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chaney1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +35,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Chaney2">
     <configuration name="Chaney1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chaney1" />
       <module name="lab2" />
@@ -44,8 +43,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Chaney2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chaney2" />
+      <module name="lab2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Chaney2" />
         <item itemvalue="Application.Chaney1" />
       </list>
     </recent_temporary>
@@ -72,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581104663785</updated>
-      <workItem from="1581104665752" duration="1030000" />
+      <workItem from="1581104665752" duration="3067000" />
     </task>
     <servers />
   </component>
@@ -84,21 +91,25 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="640" y="115" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1581104724355" />
-    <state width="708" height="228" key="GridCell.Tab.0.bottom" timestamp="1581113178664">
+    <state x="878" y="160" key="#com.intellij.ide.util.MemberChooser" timestamp="1581126655050">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="708" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581113178664" />
-    <state width="708" height="228" key="GridCell.Tab.0.center" timestamp="1581113178662">
+    <state x="878" y="160" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1581126655050" />
+    <state width="708" height="228" key="GridCell.Tab.0.bottom" timestamp="1581125616701">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="708" height="228" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1581113178662" />
-    <state width="708" height="228" key="GridCell.Tab.0.left" timestamp="1581113178661">
+    <state width="708" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581125616701" />
+    <state width="708" height="228" key="GridCell.Tab.0.center" timestamp="1581125616700">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="708" height="228" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1581113178661" />
-    <state width="708" height="228" key="GridCell.Tab.0.right" timestamp="1581113178663">
+    <state width="708" height="228" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1581125616700" />
+    <state width="708" height="228" key="GridCell.Tab.0.left" timestamp="1581125616700">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="708" height="228" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1581113178663" />
+    <state width="708" height="228" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1581125616700" />
+    <state width="708" height="228" key="GridCell.Tab.0.right" timestamp="1581125616701">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="708" height="228" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1581125616701" />
   </component>
 </project>
