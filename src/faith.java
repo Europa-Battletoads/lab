@@ -1,3 +1,6 @@
+import java.util.Arrays;
+
+
 public class faith {
 
     public static void main(String args[]) {
@@ -38,6 +41,17 @@ public class faith {
             }
         }
         return minValue;
+    }
+
+
+    public class Challenge {
+        public double[] findLargestNums(double[][] arr) {
+            return Arrays.stream(arr)
+                    .mapToDouble(sa -> Arrays.stream(sa)
+                            .max()
+                            .orElse(0))
+                    .toArray();
+        }
     }
 }
 
